@@ -26,34 +26,38 @@ cd Monad-Testnet-Swap
 ```
 
 **Create a virtual environment:**
-  - **on Linux/Mac**
+ 
+- **on Linux/Mac**
     ```sh
     python3 -m venv venv
     ```
 
-  - **on Windows**
+- **on Windows**
     ```sh
     python -m venv venv
     ```
 
 **Activate the virtual environment:**
-  - **on Linux/Mac**
+
+- **on Linux/Mac**
     ```sh
     source venv/bin/activate
     ```
-
-  - **on Windows**
+    
+- **on Windows**
      ```sh
      venv\Scripts\activate
      ```
 
 **Install the required packages:**
-    - **on Linux/Mac**
+
+- **on Linux/Mac**
+    
     ```sh
     pip3 install -r requirements.txt
     ```
     
-    - **on Windows**
+- **on Windows**
      ```sh
      pip install -r requirements.txt
      ```
@@ -65,12 +69,12 @@ nano pvkeys.txt
 ```
 
 **Run the bot**
-    - **on Linux/Mac**
+- **on Linux/Mac**
     ```sh
     python3 monswap.py
     ```
 
-    - **on Windows**
+- **on Windows**
     ```sh
     python monswap.py
     ```
