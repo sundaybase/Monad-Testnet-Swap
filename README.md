@@ -43,7 +43,7 @@ cd Monad-Testnet-Swap
     ```
 
   - **on Windows**
-     ```bat
+     ```sh
      venv\Scripts\activate
      ```
 
@@ -54,7 +54,7 @@ cd Monad-Testnet-Swap
     ```
     
     - **on Windows**
-     ```bat
+     ```sh
      pip install -r requirements.txt
      ```
 
@@ -71,7 +71,7 @@ nano pvkeys.txt
     ```
 
     - **on Windows**
-    ```bat
+    ```sh
     python monswap.py
     ```
 
