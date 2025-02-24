@@ -21,7 +21,7 @@
 
 **clone this repository**
 ```sh
-git clone https://github.com/Odienurman/Monad-Testnet-Swap.git
+git clone https://github.com/sundaybase/Monad-Testnet-Swap.git
 cd Monad-Testnet-Swap
 ```
 
